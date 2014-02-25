@@ -35,4 +35,4 @@ Output will be saved to `out.kml`
 
 `./main.py "EPWORTH STREET" 700`
 
-![example commutes](https://github.com/c-oreills/londoncommute/raw/master/buscommute.png')
+![example commutes](https://raw.githubusercontent.com/c-oreills/londoncommute/master/buscommute.png)
