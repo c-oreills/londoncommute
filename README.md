@@ -28,4 +28,4 @@ Output will be saved to `out.kml`
 
 `./main.py "EPWORTH STREET" 700`
 
-TODO: Include example screenshot
+![example commutes](https://github.com/c-oreills/londoncommute/raw/master/buscommute.png')
