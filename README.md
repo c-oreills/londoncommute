@@ -17,8 +17,8 @@ these to `stops.csv` and `routes.csv`
 
 `./main.py name radius`
 
-`name` is the name of the bus stop you wish to commute to
-`radius` is the distance, in metres, you're willing to walk to another
+* `name` is the name of the bus stop you wish to commute to
+* `radius` is the distance, in metres, you're willing to walk to another
 bus stop nearby, from either the initial bus stop or any of the destination
 stops
 
