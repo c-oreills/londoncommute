@@ -6,6 +6,13 @@ initial bus stop.
 Generates a .kml file which can be opened in Google Earth/Maps to see what
 areas you could commute directly from on a bus.
 
+## Motivation
+
+I currently always get a seat on my bus commute, and always having a seat means
+more time to spend coding side projects twice a day. I want to find out where
+else I can commute from and keep this project time intact. This project was
+created in a few such coding sessions.
+
 ## Setup
 
 `pip install -r requirements.txt`
