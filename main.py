@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import convert
 from data import get_reachable_stops_from_name
 from draw import draw_circle, save_kml
